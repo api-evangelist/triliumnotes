@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Trilium Notes is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://triliumnotes.org/
+Trilium Notes is an open-source hierarchical note‑taking application that lets users organize personal knowledge bases with rich text, code, markdown, diagrams, and more. It offers self‑hosted and cloud sync options, supports multi‑language UI, and provides a REST API for automation and integration.
+
+**Areas:** Note-taking · Open-source · Knowledge-base · Hierarchical · REST API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://triliumnotes.org/)
+- [Documentation](https://docs.triliumnotes.org/)
+- [Getting started](https://triliumnotes.org/en/get-started)
+- [API reference](https://docs.triliumnotes.org/)
+- [Pricing](https://triliumnotes.org/en/pricing)
+- [Support](https://triliumnotes.org/en/support-us)
+- [Blog](https://triliumnotes.org/en/blog)
+- [GitHub](https://github.com/TriliumNext)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/triliumnotes/](https://apis.io/providers/triliumnotes/).
